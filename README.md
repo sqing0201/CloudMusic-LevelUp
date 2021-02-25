@@ -13,7 +13,7 @@
 
 ## 使用方式
 
-### 安装依赖   
+### 安装依赖    
 
 ```shell
 pip install -r requirements.txt
